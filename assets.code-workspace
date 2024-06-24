@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "assets",
+			"path": "../../../../Downloads/Tutorial Exclusive Eportfolio/Tutorial Exclusive Eportfolio/assets"
+		},
+		{
+			"name": "NicholasKerestes",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "NicholasKerestes"
+	}
+}
